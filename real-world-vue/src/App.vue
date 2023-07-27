@@ -13,7 +13,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <RouterLink :to="{name: 'student'}">Student</RouterLink>
       <!-- <RouterLink :></RouterLink> -->
     </nav>
-
+ 
   </header>
   <RouterView />
 </template>
